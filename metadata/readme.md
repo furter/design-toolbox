@@ -29,7 +29,7 @@ In HTML the <meta> tag has no end tag, while in XHTML the <meta> tag must be pro
     <meta name="DC.date" scheme="W3CDTF"  content=""/>
     <!-- date of creation or availability of the resource: yyyy-mm-dd -->
     <meta name="DC.type" content=""/>
-    <!-- = book / blogPost /  -->
+    <!-- = book / blogPost / artwork / bookSection / audioRecording / presentation (cf Zotero’s types)  -->
     <meta name="DC.format" content="text/html"/>
     <meta name="DC.identifier" content=""/>
     <!-- for instance: URL / URI / DOI (Digital Object Identifier) / ISBN / ISSN / … -->
